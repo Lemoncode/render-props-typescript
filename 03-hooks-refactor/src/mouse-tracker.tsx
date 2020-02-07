@@ -23,7 +23,7 @@ export const Mouse = (props: Props) => {
 
   return (
     <div
-      style={{ width: "800px", height: "600px", background: "#73C84B" }}
+      style={{ width: "1024px", height: "800px", background: "#73C84B" }}
       onMouseMove={handleMouseMove}
     >
       {props.render(position)}

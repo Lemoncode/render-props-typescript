@@ -29,7 +29,7 @@ export const MouseTrackerWithCat = () => {
 
   return (
     <div
-      style={{ width: "800px", height: "600px", background: "#73C84B" }}
+      style={{ width: "100%", height: "600px", background: "#73C84B" }}
       onMouseMove={handleMouseMove}
     >
       <h1>Move the mouse around!</h1>
