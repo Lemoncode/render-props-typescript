@@ -7,9 +7,9 @@ Porting and extending the [Facebook official documentation render props examples
 )
 - **02 Using RenderProps:** reusing mouser tracking feature using render props, [codesandbox](https://codesandbox.io/s/eloquent-snowflake-wpv9t
 )
-- **03 Hooks refactor:** extracting mouse tracking functionality into a hook (still using render prop), [codesandbox](https://codesandbox.io/s/runtime-glade-r1l7q
+- **03 Hooks refactor:** extracting mouse tracking functionality into a hook, [codesandbox](https://codesandbox.io/s/runtime-glade-r1l7q
 )
-- **04 Replacing render prop with hooks version:** Replacing render prop approach with a custom hooks, [codesandbox](https://codesandbox.io/s/distracted-sinoussi-14uy4
+- **04 Replacing render prop with hooks version:** Replacing render prop approach with a custom hook, [codesandbox](https://codesandbox.io/s/distracted-sinoussi-14uy4
 )
 
 # About Basefactor + Lemoncode
