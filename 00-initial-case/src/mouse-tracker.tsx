@@ -16,7 +16,10 @@ export const MouseTracker = () => {
   };
 
   return (
-    <div style={{ width: "100%", height: "100%", background: '#73C84B' }} onMouseMove={handleMouseMove}>
+    <div
+      style={{ height: "800px", width: "1024", background: "#73C84B" }}
+      onMouseMove={handleMouseMove}
+    >
       <h1>Move the mouse around!</h1>
       <p>
         The current mouse position is ({position.x}, {position.y})
